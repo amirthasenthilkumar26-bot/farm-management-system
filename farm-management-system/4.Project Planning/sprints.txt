@@ -1,0 +1,16 @@
+MAIN DEVELOPMENT ACTIVITIES:
+1. Create Salesforce Developer Org
+2. Create custom objects and fields
+3. Create relationships and tabs
+4. Build Lightning App
+5. Configure profiles, roles and sharing rules
+6. Create reports and dashboards
+7. Test system functionality
+
+SPRINT SUMMARY:
+Sprint-1 | Developer Setup | 3 | High
+Sprint-2 | Data Modeling & Tabs | 10 | High
+Sprint-3 | Automation & Validation | 6 | High
+Sprint-4 | Security | 5 | High
+Sprint-5 | Reports | 4 | High
+Sprint-6 | Dashboards | 4 | Medium
