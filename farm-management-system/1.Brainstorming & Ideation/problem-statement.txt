@@ -1,0 +1,13 @@
+USER STORY:
+As a farmer, farm manager, or system administrator, I want to use a centralized Salesforce-based platform to manage farmer, farm, crop, and buyer information securely.
+
+PROBLEM STATEMENT:
+Farmer -> Manual and incomplete records -> Need Accurate digital records
+Farm Manager -> Delayed productivity and sales reports -> Need Real-time monitoring
+Buyer -> Crop information is not updated regularly -> Need Centralized information
+Admin -> Manual access control -> Need Secure role-based access
+
+EMPATHY & BRAINSTORMING:
+Users need accurate and timely data. Existing methods: registers, paper files, spreadsheets.
+Ideas considered: manual records, Excel management, web/mobile apps, Salesforce-based FMS.
+Selected Idea: Salesforce-based Farm Management System.
