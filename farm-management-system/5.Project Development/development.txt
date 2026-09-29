@@ -1,0 +1,24 @@
+SALESFORCE DEV ORG:
+A Salesforce Developer Org was created and configured.
+
+CUSTOM OBJECTS:
+Farm | Farm Name, Farm Type, Soil Quality, Irrigation Type, Location, Size, Farmer
+Crop | Crop Name, Planting Date, Harvest Date, Farm, Actual Yield, Acres Harvested
+Farmer | Farmer Name, Contact Number, State, District, Village
+Buyer | Buyer Name, Contact, Email, Address, Buyer Type
+
+TABS & APP:
+Custom tabs for Farm, Crop, Farmer, Buyer. Lightning App named Farm Management System.
+
+FIELDS & RELATIONSHIPS:
+Picklists, text, phone, email, date, currency, number and formula fields. Farm-Farmer and Crop-Farm relationships. State-District dependency.
+
+PROFILES, ROLES & SHARING:
+Custom profiles Farm Manager and Sales Department. Farm Manager role and users. Sharing rules for Read/Write access.
+
+REPORTS & DASHBOARD:
+Report: Farmers with Farms - grouping by Farmer Name.
+Dashboard: Farmers with Farms using Gauge/Chart.
+
+DEMO STEPS:
+Open App Launcher -> Search Farm Management System -> Open Farm/Crop/Farmer/Buyer tab -> Open Reports -> Open Dashboards -> Verify records and chart.
