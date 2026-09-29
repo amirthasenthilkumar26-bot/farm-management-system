@@ -1,0 +1,13 @@
+FUNCTIONAL & PERFORMANCE TESTING:
+- Farm, Crop, Farmer and Buyer record creation
+- Field validation and dependencies
+- Object relationship checks
+- Profile, role and sharing access
+- Report and dashboard generation
+- Basic performance and stability testing
+
+ADVANTAGES:
+Centralized data, Reduced paperwork, Improved accuracy, Real-time analytics, Better monitoring
+
+DISADVANTAGES:
+Requires internet connection, Salesforce license dependency, Limited offline access
